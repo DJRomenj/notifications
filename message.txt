@@ -1,11 +1,14 @@
 2 
 ||| 
-Hello from THIS KODI BUILD
+Hello from TVORB,
 
-[B][COLOR] white] I can use BOLD WHITE FONTS[/COLOR][/8]
+We are glad to have you aboard.
+This is our notifications pop-up.
+From time to time you will see this
+just to keep you updated on new material.
+Visit us at TVORB.COM for more info.
 
-
-This is how you use the Notifier Test 2
+Thank You and enjoy watching your shows
 
 
 
