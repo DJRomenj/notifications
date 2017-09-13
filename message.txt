@@ -1,11 +1,11 @@
-1 
+2 
 ||| 
 Hello from THIS KODI BUILD
 
 [B][COLOR] white] I can use BOLD WHITE FONTS[/COLOR][/8]
 
 
-This is how you use the Notifier
+This is how you use the Notifier Test 2
 
 
 
