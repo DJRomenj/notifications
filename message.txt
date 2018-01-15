@@ -2,11 +2,14 @@
 ||| 
 Hello from TVORB,
 
-We are glad to have you aboard.
-This is our notifications pop-up.
-From time to time you will see this
-just to keep you updated on new material.
-Visit us at TVORB.COM for more info.
+Please Be Advise We Have Updated Kodi.
+In order to receive this update follow these directions.
+
+On Kodi Home screen scroll down to System Maintenance
+On your remote click to the left. This will open a new
+box. In this box select TVORB Kodi Wizard to install the update.
+After install finishes unplug your device from power and restart.
+Any questions contact us at tvorb.com
 
 Thank You and enjoy watching your shows.
 
